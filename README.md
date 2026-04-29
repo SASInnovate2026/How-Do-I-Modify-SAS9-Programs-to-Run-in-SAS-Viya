@@ -2,6 +2,10 @@
 
 SAS Viya is a modern, cloud-enabled analytics platform built for high-speed, scalable processing- but what does that mean in practice for SAS programmers? This demonstration demystifies SAS Viya by explaining its core architecture, introducing caslibs, and showing how they compare to traditional SAS libraries. You’ll also see how to load data into memory and explore key considerations when working with the CAS server. Whether you’re new to SAS®  Viya or transitioning from SAS 9, this session provides a practical foundation for working effectively in SAS Viya.
 
+# Link to Compare Base SAS Procedures to their CAS-enabled procedures and CASL actions:
+
+https://documentation.sas.com/doc/en/pgmsascdc/v_074/procs2actions/p0275qj00ns5pen16ijvuz8f8j5k.htm 
+
 # Session Information
 Format: HOW
 
